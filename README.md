@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Fernanda
-- 👀 I’m interested in become a frontend dev
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Java
-- 💞️ I’m looking to collaborate on anything I can
+- 👀 I’m interested in become a data scientist
+- 🌱 I’m currently learning Python and Java
 - 📫 You can follow me browsing @fercn on the social media
 <!---
 nascimentofernanda/nascimentofernanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
