@@ -1,6 +1,6 @@
 # Hello, my name is Fernanda, nice to meet you!
 
-##### I'm a industrial engineer who recently discovered a passion about the data science so now I'm in a transition of career. I'm studying Python, SQL, Power BI and everything about this new area. 
+##### I'm an industrial engineer who recently discovered a passion about the data science so now I'm in a transition of career. I'm studying Python, SQL, Power BI and everything about this new area. 
 ##### Can you help me to become a good data analistic? Let's be friends ;)
 ##### You can reach me in one of the chanels bellow.
 
