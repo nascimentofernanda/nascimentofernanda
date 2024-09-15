@@ -16,12 +16,6 @@
 
 <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo HTML5" width="30" height="30" /></div><br>
 
-<div>
-<a href="https://github.com/nascimentofernanda">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentofernanda&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentofernanda&show_icons=true&theme=dark&count_private=true"/>
-</div><br>
-
 You can also find me on:
 <div>
 <a href="https://instagram.com/fercfn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
