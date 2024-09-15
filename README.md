@@ -4,7 +4,7 @@
 
 🎓 Industrial engineer in career transition<br>
 📊 Studying to become a data scientist<br>
-💔 Unrequited love with front-end<br>
+💔 Flirting with Full Stack <br>
 
 📕 Current learning:
 
