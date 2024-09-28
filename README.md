@@ -14,9 +14,9 @@
 
 ✅ Certifications:
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo HTML5" width="30" height="30" /></div><br>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo HTML5" width="30" height="30" /></div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="logo Github" width="30" height="30" />
-<div>
+<div><br>
   
 <a href="https://github.com/nascimentofernanda">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentofernanda&layout=compact&langs_count=7&theme=dark"/>
