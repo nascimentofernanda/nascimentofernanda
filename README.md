@@ -14,7 +14,7 @@
 
 ✅ Certifications:
 
-<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo HTML5" width="30" height="30" /></div>
+<div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="logo HTML5" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="logo Github" width="30" height="30" />
 <div><br>
   
